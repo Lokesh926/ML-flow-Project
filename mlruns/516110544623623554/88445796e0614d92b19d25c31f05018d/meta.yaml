@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516110544623623554/88445796e0614d92b19d25c31f05018d/artifacts
+end_time: 1737854065196
+entry_point_name: ''
+experiment_id: '516110544623623554'
+lifecycle_stage: active
+run_id: 88445796e0614d92b19d25c31f05018d
+run_name: judicious-fox-864
+run_uuid: 88445796e0614d92b19d25c31f05018d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737854056552
+status: 3
+tags: []
+user_id: lokes

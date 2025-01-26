@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516110544623623554/bd014ee986b54da5a778cea3a9474fcf/artifacts
+end_time: 1737854028262
+entry_point_name: ''
+experiment_id: '516110544623623554'
+lifecycle_stage: active
+run_id: bd014ee986b54da5a778cea3a9474fcf
+run_name: secretive-skink-87
+run_uuid: bd014ee986b54da5a778cea3a9474fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737854028126
+status: 4
+tags: []
+user_id: lokes
